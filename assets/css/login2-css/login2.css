@@ -1,0 +1,16 @@
+.login__signup {
+    padding: 20px 0px;
+}
+
+.login__reset-password,
+.login__signup-registration {
+    font-size: 1.5rem;
+    line-height: 2;
+    color:#363636 ;
+}
+
+.login__reset-password span a,
+.login__signup-registration span a {
+    margin-left: 12px;
+    color: #0088CE;
+}
